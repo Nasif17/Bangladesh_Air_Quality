@@ -1,4 +1,4 @@
-Here’s a suitable `README.md` for your script:
+
 
 ---
 
@@ -77,4 +77,4 @@ This project is open-source and can be used for research or educational purposes
 
 ---
 
-If you’d like, I can also **add a section in the README with a diagram** showing the data flow from the API to the CSV. That would make it visually clear how your script works.
+
